@@ -1,0 +1,11 @@
+:root {
+  --variable-collection-createdproject: none;
+  --variable-collection-deletedproject: none;
+  --variable-collection-existedproject1: none;
+  --variable-collection-existedproject2: none;
+  --variable-collection-existedproject3: none;
+  --variable-collection-existedproject4: none;
+  --variable-collection-existedproject5: none;
+  --variable-collection-selectedproject: 0px;
+  --variable-collection-updatedproject: none;
+}
