@@ -1,0 +1,11 @@
+.main-content {
+  align-items: flex-start;
+  background-color: #f8f9fa;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  height: 960px;
+  padding: 60px 60px 100px;
+  position: relative;
+  width: 1200px;
+}
